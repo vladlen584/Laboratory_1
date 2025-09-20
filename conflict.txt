@@ -1,1 +1,1 @@
-Main version
+Resolved: Main and T2 versions merged
