@@ -2,6 +2,6 @@ class main
 {
    public void main()
    {
-      Console.WriteLine("Hello vlad")
+      Console.WriteLine("Hello rt6trt")
    }
 }
